@@ -6,6 +6,12 @@ This project was developed for the Monument AI coding challenge.
 
 -----
 
+## Architecture Diagram
+
+![Architecture Diagram](architecture.png)
+
+-----
+
 ## Features
 
   * Convert any English word to an ASCII binary bitmask and seed a 60×40 Game of Life grid.
