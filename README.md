@@ -39,7 +39,7 @@ This project was developed for the Monument AI coding challenge.
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/Aditya19Joshi01/CGoL.git
+git clone https://github.com/Aditya19Joshi01/CGoL-AI-Tool.git
 cd cgol_ai_tool
 
 # 2. Create virtualenv (optional but recommended)
